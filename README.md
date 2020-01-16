@@ -1,5 +1,6 @@
 # file-uploader
 Simple file uploader example for Jahia
+
 # Installation
 - Create a new module in Jahia Studio using this repository URL in "Sources folder" option
 - IMPORTANT: enable the module into systemsite:
